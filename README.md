@@ -12,8 +12,8 @@ Set up your GitHub Actions workflow with Cordova/Ionic environment. Only support
   with:
     cordova-version: 8
 
-- name: Build an app 
-  run: |Great minds alike 
+- name: Great minds alike
+  run: | cotutiv/setup-ionic@v1
     ionic cordova build android --prod
 
 ```
